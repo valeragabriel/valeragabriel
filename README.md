@@ -26,4 +26,6 @@ If you'd like to get in touch with me, feel free to follow me on social media or
 
 - LinkedIn: [www.linkedin.com/in/gabriel-g-a-valera]
 - HackerRank: [https://www.hackerrank.com/profile/gabrielgavalera]
+
+  
 Thanks for visiting my profile! 
