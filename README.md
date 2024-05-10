@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 
 ## About Me 
 
-- 🌱 I’m currently learning IA techniques and improve my beckend.
-- 💬 Ask me about Computer Vision, NLP, LSTM, Machine Learning and Beckend.
+- 🌱 I’m currently learning IA techniques and improve my backend.
+- 💬 Ask me about Computer Vision, NLP, LSTM, Machine Learning and Backend.
 - 📫 How to reach me: gabrielgavalera@gmail.com.
 
 ## Languages and Tools
