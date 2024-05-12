@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## Languages
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Python]([https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg))
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)
 
