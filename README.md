@@ -10,27 +10,25 @@ Welcome to my GitHub profile!
 
 ## Languages
 
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+### Languages:
+| Python3 | C | JS | Solidity |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img 
 
-## Frameworks and Libraries
+## Frameworks and Libraries:
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch)
-![NumPy](https://img.shields.io/badge/-NumPy-orange?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=pandas)
-![OpenCV](https://img.shields.io/badge/-OpenCV-orange?style=flat-square&logo=opencv)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-orange?style=flat-square&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?style=flat-square&logo=matplotlib)
-![Django](https://img.shields.io/badge/-Django-orange?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=flat-square&logo=fastapi)
+| Pytorch | Tensorflow | Numpy | Pandas | Sklearn | Matplotlib | OpenCV | Django |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img
+src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
-## Others 
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+### Others:
+
+| Git | Docker | AWS |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img 
+src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>
 
 ## GitHub Stats
 
@@ -46,3 +44,10 @@ If you'd like to get in touch with me, feel free to follow me on social media or
 
   
 Thanks for visiting my profile! 
+
+
+
+
+
+
+
